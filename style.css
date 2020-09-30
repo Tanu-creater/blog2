@@ -28,6 +28,11 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+.search{
+      float: right;
+      padding: 15px;
+} 
+/* this is for search bar*/
 .blog_wrapper{
     grid-column: 2/3;
     font-size: 20px;
